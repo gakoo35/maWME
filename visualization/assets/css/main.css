@@ -1,0 +1,44 @@
+#page-content > div > div {
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+/*table {
+    width: 50% !important;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+
+
+th {
+    width: 50% !important;
+}
+
+.table-wrapper {
+    overflow: hidden auto;
+    position: relative;
+    max-height: 300px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-wrapper > table > thead {
+    position: sticky;
+    top: 0;
+    background: #616bfa;
+    color: #fff;
+}
+
+
+/*div {
+    padding-bottom: 20px;
+} --> makes graphs go bigger and bigger*/
