@@ -1,4 +1,4 @@
-# Projet MA_WME - Airline sentiment analysis
+# Projet MA_WEM - Airline sentiment analysis
 
 
 
